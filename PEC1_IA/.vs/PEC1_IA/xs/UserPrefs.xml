@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{75D32242-1774-4042-9423-C284B1979296}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/A3_WalkAway.cs">
+    <Files>
+      <File FileName="Assets/Scripts/A3_FSM.cs" Line="43" Column="2" />
+      <File FileName="Assets/Scripts/A2_FOV.cs" Line="137" Column="72" />
+      <File FileName="Assets/Scripts/A1_Logic.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/A3_Persecution.cs" Line="32" Column="42" />
+      <File FileName="Assets/Scripts/A3_WalkAway.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/A3_Wander.cs" Line="12" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PEC1_IA" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="A3_WalkAway.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e61bf0e6-eddf-40fe-94f8-689f512437fe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
